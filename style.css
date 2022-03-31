@@ -6,6 +6,7 @@
 
 body {
   font-family: Times New Roman, Times, serif;
+  height: 97vh;
 }
 
 .header {
@@ -68,7 +69,7 @@ main form {
 }
 
 #trybewarts-forms-logo {
-  height: 500px;
+  height: 300px;
 }
 
 #house {
@@ -110,7 +111,7 @@ main form {
 footer {
   background-color: rgb(95, 93, 93);
   display: flex;
-  margin-top: 30px;
+  margin-top: 84px;
   align-items: center;
   font-size: large;
   color: white;
